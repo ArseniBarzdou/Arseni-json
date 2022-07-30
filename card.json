@@ -1,0 +1,43 @@
+[
+    {
+        "imgSrc": "img/shorts.png",
+        "name": "Шорты",
+        "price": "20.00",
+        "listPrice": "30.00",
+        "id": "1"
+    },
+    {
+        "imgSrc": "img/crocs.png",
+        "name": "Ботинки",
+        "price": "90.00",
+        "listPrice": "91.00",
+        "id": "2"
+    },
+    {
+        "imgSrc": "img/socks.png",
+        "name": "Носки",
+        "price": "26.00",
+        "listPrice": "30.00",
+        "id": "3"
+    },
+    {
+        "imgSrc": "img/bread.png",
+        "name": "Масло для бороды",
+        "price": "30.00",
+        "listPrice": "39.00",
+        "id": "4"
+    },
+    {
+        "imgSrc": "img/trimmer.png",
+        "name": "Кепка",
+        "price": "30.00",
+        "listPrice": "40.00",
+        "id": "5"
+    },
+    {
+        "imgSrc": "img/keddo.png",
+        "name": "Кеды",
+        "price": "109.00",
+        "listPrice": "230.00",
+        "id": "6"
+    }]
