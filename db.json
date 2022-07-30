@@ -33,11 +33,5 @@
         "price": "30.00",
         "listPrice": "40.00",
         "id": "5"
-    },
-    {
-        "imgSrc": "img/keddo.png",
-        "name": "Кеды",
-        "price": "109.00",
-        "listPrice": "230.00",
-        "id": "6"
-    }]
+    }
+]
